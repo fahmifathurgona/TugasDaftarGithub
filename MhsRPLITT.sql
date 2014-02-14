@@ -41,6 +41,8 @@ insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120160','Ignas
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120171','Taufik Maulana','zmaul');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103124328','Rizal Purwosaputro','zalphe');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120264','Aulia Marchita Ramadhani','auliamarchita');
+insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103121285','Taufik Nur Fauzi','taufiknurfauzi');
+
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
