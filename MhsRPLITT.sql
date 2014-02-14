@@ -33,6 +33,7 @@ CREATE TABLE `githubrplitt` (
   insert yang sudah saya sediakan */
 
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('23510004','Adam Mukharil Bachtiar','adfbipotter');
+insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103124329','Dony Arisandy Wiranata','doarwi');
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
 /*!40014 SET FOREIGN_KEY_CHECKS=@OLD_FOREIGN_KEY_CHECKS */;
