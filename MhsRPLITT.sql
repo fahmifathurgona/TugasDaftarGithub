@@ -50,6 +50,7 @@ insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120174','Dwi J
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120257','Mochamad Purwono Budianto','budianto234');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120163','Abiyan Satrio Pratomo','abiyansp');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120255','Reza Rifaldi','leonhartreza');
+insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120055','Yurian Iqbal Ramadhan','yurianiqbal');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103124327','Paskalis Dias Adhyaksa','diasadhyaksa');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120258','Muhammad Hafidz Al Farabi','mhafidzaf');
 insert  into `githubrplitt`(`nim`,`nama`,`username`) values ('1103120165','Wahyu Maulana','wahyumaulana');
